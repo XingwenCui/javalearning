@@ -1,3 +1,4 @@
+package Asg1;
 /**
  * This class RNG is used to generate random int number between the minimum and maxmun limits
  *

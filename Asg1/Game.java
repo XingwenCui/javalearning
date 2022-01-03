@@ -1,3 +1,4 @@
+package Asg1;
 import java.util.Scanner;
 /**
  * This class Game is used to play the Javaio game and contain the game functions which will be used in the game

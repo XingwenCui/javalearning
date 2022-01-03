@@ -1,3 +1,4 @@
+package Asg1;
 import java.util.Scanner;
 /**
  * This class Player is used to create a player with some attributes and contain methods to change these attributes
