@@ -3,6 +3,7 @@ package cainiaojava.Inherit;
 public class Mouse extends Animal{
 
     private int num;
+    
     public Mouse(String myName, int myid) { 
         // 构建父类中的constructor，也可以在子类再添加
         super(myName,myid); 

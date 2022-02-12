@@ -1,0 +1,19 @@
+Race1
+Andre Bertonoulli choose to Fast Pedalling and his score is: positon5 * bonus0.07 / penalty0.08 + (factor20 * 0.07) = final score5.775 the point is 5
+Francoise Milano choose to cheat and his score is: positon29 * bonus0.04 / penalty0.0 - (factor12 * 0.0) = final score1.16 the point is 0
+dasdasd choose to cheat and his score is: positon86 * bonus0.09 / penalty0.19 - (factor15 * 0.19) = final score37.88684210526315 the point is 10
+
+Race2
+Andre Bertonoulli choose to cheat and his score is: positon9 * bonus0.07 / penalty0.08 - (factor13 * 0.08) = final score6.835000000000001 the point is 5
+Francoise Milano choose to Tailgating and his score is: positon73 * bonus0.04 / penalty0.0 + (factor25 * 0.04) = final score3.92 the point is 0
+dasdasd choose to cheat and his score is: positon83 * bonus0.09 / penalty0.19 - (factor13 * 0.19) = final score36.845789473684206 the point is 10
+
+Race3
+Andre Bertonoulli choose to cheat and his score is: positon48 * bonus0.07 / penalty0.08 - (factor9 * 0.08) = final score41.28 the point is 10
+Francoise Milano choose to Tailgating and his score is: positon78 * bonus0.04 / penalty0.0 + (factor21 * 0.04) = final score3.96 the point is 0
+dasdasd choose to cheat and his score is: positon30 * bonus0.09 / penalty0.19 - (factor10 * 0.19) = final score12.310526315789472 the point is 5
+
+In 3 place is Francoise Milano and his point is 0
+In 2 place is Andre Bertonoulli and his point is 20
+In 1 place is dasdasd and his point is 25
+

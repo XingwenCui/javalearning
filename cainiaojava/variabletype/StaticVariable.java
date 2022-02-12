@@ -8,7 +8,8 @@ public class StaticVariable {
     // DEPARTMENT是一个常量
     public static final String DEPARTMENT = "开发人员";
     public static void main(String[] args){
-    salary = 10000;
+    //这个salary可以不construct object就使用
+        salary = 10000;
         System.out.println(DEPARTMENT+"平均工资:"+salary);
     }
 }
